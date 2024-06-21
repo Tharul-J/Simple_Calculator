@@ -1,3 +1,3 @@
-## Simple Calculator
+## Simple Calculator 🧮
 
-Simple Calculator Application using Python
+    Simple Calculator Application using Python
