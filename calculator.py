@@ -1,4 +1,4 @@
-#Simple Calculator - By Tharul.j
+# Simple Calculator - Tharul.j
 
 def add(x, y):
     return x + y
